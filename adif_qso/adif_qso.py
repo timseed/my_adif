@@ -24,7 +24,7 @@ if __name__ == "__main__":
             if rec%5==0 and args.debug==True:
                 print("Processed "+str(rec))
             fields = a.parse_line(l)
-            if 'call' in fields and 'mode' in fields and 'freq' in fields:
+            if 'call' in fields and 'mode' in fields and 'freq' in fields and 'qso_date' in fields and 'time_on' in fields:
                 if fields['call']==CALL:
                     print(str.format('{} {} {}',fields['call'],fields['freq'],fields['mode']))
             #else:
