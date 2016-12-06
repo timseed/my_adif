@@ -1,4 +1,6 @@
 import re
+import argparse
+
 
 
 class adif(object):
@@ -27,7 +29,13 @@ class adif(object):
 
 
 if __name__ == "__main__":
-    a = adif('/Users/tim/PycharmProjects/my_adif/a45wg.adif')
+    parser = argparse.ArgumentParser(description='Process Adif File.')
+    parser.add_argument('--file', dest='adif_file',
+                        default='NoFile.adif',
+                        help='Enter the name of the adif file')
+
+    args = parser.parse_args()
+    a = adif(args.adif_file)
     lines = 20
     for l in a:
         fields = a.parse_line(l)
