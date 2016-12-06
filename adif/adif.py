@@ -14,7 +14,7 @@ class adif(object):
 
     def __next__(self):
         line = self.ifp.readline()
-        if line is None:
+        if line=='':
             raise StopIteration
         else:
             return line
@@ -36,9 +36,13 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     a = adif(args.adif_file)
-    lines = 20
+    lines = 2000
+    cnt=1618
     for l in a:
+        cnt=cnt-1
         fields = a.parse_line(l)
+        if cnt==0:
+            junk=1
         if 'call' in fields and 'mode' in fields and 'freq' in fields:
             print(str.format('{} {} {}',fields['call'],fields['freq'],fields['mode']))
             lines -= 1
