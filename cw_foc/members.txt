@@ -1,0 +1,537 @@
+
+FOC members sorted by CALLSIGN number, and then by FOC NUMBER:
+
+FOC#   CALL   NAME                  | FOC#   CALL   NAME
+
+1836   4X4DK  Ami Shami             | 71 A   GW3SB  Chas Bryant
+1782   4Z4KX  Mark Stern            | 286 A  G3ESY  Peter Jones
+1670   5B4AGN Bob Henderson         | 293    G2HKU  Ted Trowell
+2005   5T0JL  Jean Lewuillon        | 331    G8VG   Pete Windle
+1925   6Y5WJ  Josh Walker           | 477    SM5CCE Kjell Edvardsson
+1956   7Z1HL  Harry Lennertz        | 494    LA5HE  Rag Otterstad
+1473   9A8W   Davor Milosevic       | 623    G3JUL  Geoff Voller
+1322   9J2BO  Brian Otter           | 658    ZS1EL  Vidi La Grange
+2016   9V1VV  John Davies           | 671    G3LKZ  Owen Jackson
+1475   A45XR  Chris Dabrowski       | 675    K2TT   Bill Schneider
+1921   AA3B   Bud Trench            | 676    PA0BW  Hein Spoorenberg
+1851   AC2K   Alan Komenski         | 698    N9SW   Gene Sochor
+2036   AC4CA  John Huecksteadt      | 713    SM7BVO Rolf Carlsson
+1662   AC5K   Wes Spence            | 741    G3OAY  Neil Graham
+2096   AD5A   Mike Crownover        | 744    F5VHY  Den Andrews
+1880   AD8P   Bill Gaines           | 774    W1HT   Ralph Green
+2093   AE1T   Peter Drexel          | 779    W1RAN  Ned Raub
+1861   AI2Q   Alex Mendelsohn       | 806    W1UU   Peter Butler
+1898   AK4Z   John Rothrock         | 831    GM3POI Clive Penna
+2029   AK5X   William Hammond       | 832    VK2AYD Dave Pilley
+1624   DF2IC  Greg Fismer           | 841    G3LHJ  Derrick Webber
+1904   DF4BV  Heinz Mueller         | 847    G3SXW  Roger Western
+1796   DJ1YFK Fabian Kurz           | 867 A  G3RPB  Keith Spicer
+1329   DJ2BW  Herman Samson         | 875    W1YL   Ellen White
+1293   DJ3KR  Juergen Roettger      | 888    N3RS   Sig Sigismonti
+1833   DJ4KW  Gerd Sapper           | 928    K3ZO   Fred Laun
+1980   DJ5IL  Karl Fischer          | 935    SM6CUK Lars Persson
+1145   DJ5ZN  Klaus Beck            | 937    OH2EA  Hans Boeltzig
+1708   DJ6SI  Baldur Drobnica       | 953    VE6BF  Bill Metcalfe
+1946   DJ6ZM  Toffy Schmige         | 988    G3WPF  Reg Unsworth
+1808   DK1WU  Hans Hofmann          | 1049   OZ7YL  Svata Visser
+1879   DK2GZ  Harry Meier           | 1053   K1ZZ   Dave Sumner
+1567   DK4LX  Holger Matthiessen    | 1067   N3JT   Jim Talens
+1853   DK5AD  Knut Baczko           | 1101   PA0VDV Joeke van der Velde
+2044   DK7LX  Georg Knoess          | 1104   W9VNE  Jim Danehy
+1795   DK7VW  Werner Jochem         | 1121   K4BAI  John Laney
+1344   DK8EI  Klaus Gries           | 1122   S50A   Tine Brajnik
+1701   DK8IT  Gerry Emig            | 1145   DJ5ZN  Klaus Beck
+1799   DL1BUG Red Frenzel           | 1149   N3RD   Dave Hawes
+2070   DL1CW  Arno Polinsky         | 1150   W3LPL  Frank Donovan
+1943   DL1VDL Hartmut Buettig       | 1159   W1RM   Pete Chamalian
+1981   DL3AZ  Andy Zipper           | 1164   N4AR   Bill Maxson
+1582   DL4CF  Joe Vollbrecht        | 1174   F3OA   Mike Lagrot
+2026   DL5YL  Tina Ockert           | 1177   K3TW   Tom Warren
+2028   DL5YM  Manfred Ockert        | 1183   N4WJ   Frank McCormick
+2020   DL6LBI Ingo Trende           | 1186   K8MFO  Don Karvonen
+1763 A DL8LBK Ken Koch              | 1188   G3RWL  Richard Limebear
+1986   DL8PG  Gerd Jacobs           | 1189   GM3WUX Terry Robinson
+2097   DU7ET  Robert Wright         | 1192   G3LIK  Mick Puttick
+2054   EA4BB  Fernando Arroyo       | 1205   OZ1LO  Leif Ottosen
+1724   EA6BF  Josep Torres          | 1211   OZ5DX  Hans Pyndt
+1656   EA8CN  Andy Nyberg           | 1217   W4YE   Bud Smith
+1905   EI5DI  Paul O'Kane           | 1223   G2JL   Mort Mortimer
+1940   EI5DS  Ned Collins           | 1225   G3RTE  Jim Kellaway
+1770   EI6FR  Declan Craig          | 1234   N5TP   Pete Pederson
+1989   EI7BA  John Tait             | 1235   K6NA   Glen Rattmann
+2045   EW8O   Mik Katsuro           | 1262   W9KNI  Bob Locher
+1174   F3OA   Mike Lagrot           | 1263   K4EWG  Pete Rhodes
+1737   F5NZY  Stephane Collas       | 1265   G3KTZ  Ron Lindsay
+744    F5VHY  Den Andrews           | 1266   G3TXF  Nigel Cawthorne
+2017   F6HKA  Bert Banlier          | 1268   K4XU   Dick Frey
+2072   F6JOE  Jean-Claude Mercier   | 1280   W1OT   Tony Berg
+1677   G0BQV  Mary Ashdown          | 1282   GW3KDB Pete Miles
+1901   G0CHV  Mike Sherriff         | 1286   I3BLF  Jack Mior
+2068   G0EFO  Mike Shortland        | 1293   DJ3KR  Juergen Roettger
+1607   G0FJT  Jon Hanson            | 1294   PR7PO  Alex Filho
+1939   G0GKH  Dave Birch            | 1297   K5AQ   Don Hall
+2048   G0IBN  Andy Kersey           | 1299   W4VQ   Bob Beatty
+1666 A G0IVZ  Jan Fisher            | 1305   I7ALE  Sandro D'Onofrio
+1731   G0JWB  Bill Brady            | 1306   K9WA   Jim Rounds
+1684   G0ORH  Ken Chandler          | 1308   G4BUE  Chris Page
+2095   G0PNM  Pete Sobye            | 1309   GW3KGV Ken Bates
+1875 A G0RTN  Gerry Lynch           | 1314   ZL1AH  John Wightman
+1931   G0VQW  Sandy Jack            | 1317   G3VMW  Steve Wilson
+293    G2HKU  Ted Trowell           | 1322   9J2BO  Brian Otter
+1223   G2JL   Mort Mortimer         | 1329   DJ2BW  Herman Samson
+1777   G2NF   Tony Canning          | 1332   G3VMK  Dale Chadwick
+1564   G3AB   Andy Chadwick         | 1340   K2MGR  Kurt Stietz
+1482 A G3BEX  John Short            | 1342   G3VTT  Colin Turner
+2006   G3BJ   Don Beattie           | 1344   DK8EI  Klaus Gries
+286 A  G3ESY  Peter Jones           | 1366   PA0INA Frans Oosthoek
+1698   G3HEJ  Derek Stanners        | 1371 A YT1E   Rod Rankovic
+1949   G3HGE  Tom Withers           | 1374 A K4EFZ  Chris Esbensen
+1673   G3IZD  Ivan Davies           | 1376   OX3XR  Peter Thulesen
+1950 A G3JKB  Dave Simmonds         | 1391 A K4OAH  Garey Barrell
+623    G3JUL  Geoff Voller          | 1402   SM3EVR Tord Julander
+1535 A G3JVC  John Cleeve           | 1407   G3RVM  Ian Trusson
+1930   G3KOJ  Ray Ezra              | 1408   HB9QO  Bruno Bossert
+1265   G3KTZ  Ron Lindsay           | 1414 A G3SYM  Dave Coltart
+2037   G3LDI  Roger Cooke           | 1415   PA0ABM Wino Paas
+841    G3LHJ  Derrick Webber        | 1418   SM5GLC Lasse Moell
+1192   G3LIK  Mick Puttick          | 1423   W1HL   Jim Fisk
+671    G3LKZ  Owen Jackson          | 1425   W4IR   Joe Picior
+1781   G3MBN  Brian Gibbs           | 1430   GM3YTS Rob Ferguson
+1639   G3MCK  Gerald Stancey        | 1434   K4LQ   Fred Perkins
+1683   G3MRC  Joe Poole             | 1437   OK1RR  Martin Kratoska
+1996   G3NCN  John Ellerton         | 1441   G4DJX  Alan Gray
+1991   G3NKC  David Sharred         | 1444   N6RA   Tom Gallagher
+1573   G3NKS  Derek Thom            | 1446   PA0DIN Din Hoogma
+741    G3OAY  Neil Graham           | 1460   W0ZR   Tom Lutz
+1816   G3OLB  Tom Boucher           | 1461   K2LE   Andy Bodony
+1794   G3PDH  Malcolm Prestwood     | 1471   GM4SID Sid Will
+1778   G3PJT  Bob Whelan            | 1473   9A8W   Davor Milosevic
+1682 A G3PQC  Doug Turk             | 1475   A45XR  Chris Dabrowski
+1834   G3PQD  Derek St. John        | 1476   K7NJ   Riki Kline
+1918   G3ROO  Ian Keyser            | 1480   LA3FL  Per Mikalsen
+867 A  G3RPB  Keith Spicer          | 1482 A G3BEX  John Short
+1225   G3RTE  Jim Kellaway          | 1483   N2UU   Bob Weiman
+1407   G3RVM  Ian Trusson           | 1484   SM6BGA Hans Johansson
+1902   G3RWF  Nick Henwood          | 1486   G4BUO  Dave Lawley
+1188   G3RWL  Richard Limebear      | 1490   N4UB   Don Widener,Jr.
+1538   G3RXP  Dave Mason            | 1492   VK6LW  Kevin Smith
+1884   G3SCD  David Dunn            | 1493   OQ3R   Mar Dancilla
+1678   G3SED  Mike Devereux         | 1494   K2SG   Tony DeBiasi
+1513   G3SWH  Phil Whitchurch       | 1496   KN0V   Gary Reichow
+847    G3SXW  Roger Western         | 1500   G3XAQ  Alan Ibbetson
+1414 A G3SYM  Dave Coltart          | 1503   G4SIE  Rik Mason
+1936   G3TBK  Dave Cree             | 1506   PA5TT  Teun den Ouden
+1266   G3TXF  Nigel Cawthorne       | 1507   K9QVB  John Meyer
+1933 A G3VCN  Paul Kalas            | 1513   G3SWH  Phil Whitchurch
+1332   G3VMK  Dale Chadwick         | 1514   SM5COP Rune Wande
+1317   G3VMW  Steve Wilson          | 1515   W4CK   Mark Clark
+1342   G3VTT  Colin Turner          | 1516   HB9BFQ Bo Lofstedt
+1600   G3WGV  John Linford          | 1526   VK8AV  Alan Viegas
+988    G3WPF  Reg Unsworth          | 1528   K1AR   John Dorr
+2019   G3WPH  Mike Chamberlain      | 1529   JA1NUT Shin Onisawa
+1500   G3XAQ  Alan Ibbetson         | 1532   W1FJ   Al Rousseau
+1975   G3XJS  Peter Barville        | 1535 A G3JVC  John Cleeve
+1644   G3XNG  Bob Leask             | 1537   PA5XM  Kees Engelhard
+1805   G3XTT  Don Field             | 1538   G3RXP  Dave Mason
+2002 A G3YEC  Rick Edmondson        | 1539   K5NA   Richard King
+1893 A G3YIQ  Bob Jones             | 1541   JA5DQH Aki Nagi
+2066   G3YJQ  Fred Bourne           | 1542   GM3JKS Frank Claytonsmith
+1685   G3YXX  David Wood            | 1544   VE7CC  Lee Sawkins
+1752   G3ZGC  Richard Jolliffe      | 1546   G4AFU  Paul Rollin
+1589   G3ZYV  Dave Ferigan          | 1547   OK1CZ  Petr Doudera
+1546   G4AFU  Paul Rollin           | 1548   K4LTA  Bill O'Kain
+1308   G4BUE  Chris Page            | 1549   K8ZH   Rick Chilcote
+1486   G4BUO  Dave Lawley           | 1554   OZ4UN  Poul-Erik Karlshoej
+1746   G4BWP  Fred Handscombe       | 1557   OH2KI  Jorma Saloranta
+1984   G4BYG  Vic Lindgren          | 1561   K2VUI  Joe Green
+1441   G4DJX  Alan Gray             | 1563   W6RGG  Bob Vallio
+1997   G4FAD  Rich Langford         | 1564   G3AB   Andy Chadwick
+1631   G4FNL  Graham Bubloz         | 1567   DK4LX  Holger Matthiessen
+1874   G4FON  Ray Goff              | 1568   G4HZV  Bob Bagwell
+1934   G4HMC  David Oliver          | 1571   SM6CPY Carl Jonsson
+1568   G4HZV  Bob Bagwell           | 1573   G3NKS  Derek Thom
+2015   G4IIY  Ian Fugler            | 1576 A K4LT   Doug Klein
+2000   G4IRN  John Warburton        | 1582   DL4CF  Joe Vollbrecht
+1852 A G4KXG  Ken Jackson           | 1586 A N2KW   Allen Singer
+2091   G4LFU  Tony Bircher          | 1587 A G4SPY  Arnold Kay
+1769 A G4PPG  Jim O'Sullivan        | 1589   G3ZYV  Dave Ferigan
+1899   G4RCG  John Muzyka           | 1593   K1GUP  Jerry Burns
+1649   G4RMV  Mike Buckle           | 1594   KP4P   Tele Figueroa
+1503   G4SIE  Rik Mason             | 1599   K2SX   Dennis McAlpine
+1587 A G4SPY  Arnold Kay            | 1600   G3WGV  John Linford
+1787   G4TSH  Justin Snow           | 1601   K7UOT  Tom Chandler
+1758   G4VHH  Fred Atkin            | 1606   WB2YQH Bob Nadolny
+1650   G4XRV  Rupert Bullock        | 1607   G0FJT  Jon Hanson
+1976 A G5CL   Ryan Pike             | 1608   ZL1MH  Mike Hutchins
+1757   G5LP   Lionel Parker         | 1610   SM6DHU Matt Alfredsson
+1992   G7VJR  Michael Wells         | 1611   GW3YDX Ron Stone
+2067   G8DX   Jack White            | 1612   K1JD   John DePrimo
+331    G8VG   Pete Windle           | 1613   W6CYX  Bob Warmke
+1839 A GI3PDN Ray Harbison          | 1615   K0MZN  Del Seay
+2013   GI4CFQ Gary McSweeney        | 1616   W3IL   Bill Erney
+1998   GM0GAV Gavin Taylor          | 1617   ZB2CW  Derek Austin
+1542   GM3JKS Frank Claytonsmith    | 1621   R7KZ   Stan Sychev
+831    GM3POI Clive Penna           | 1624   DF2IC  Greg Fismer
+1189   GM3WUX Terry Robinson        | 1625   N9RD   Jurgen Nittner
+1926   GM3YOR Drew Givens           | 1627   K9UIY  Vic Shields
+1430   GM3YTS Rob Ferguson          | 1628   VK2BJ  Barry Simpson
+2060   GM4EVS David Johnstone       | 1631   G4FNL  Graham Bubloz
+1471   GM4SID Sid Will              | 1634   KC7V   Mike Fulcher
+1855   GU4CHY Dick Allisette        | 1635   K1AJ   Bruce Marshall
+2014   GU4YOX Bob Beebe             | 1636   KT5X   Fred Maas
+1282   GW3KDB Pete Miles            | 1639   G3MCK  Gerald Stancey
+1309   GW3KGV Ken Bates             | 1641   K5XK   Ron Evans
+71 A   GW3SB  Chas Bryant           | 1644   G3XNG  Bob Leask
+1611   GW3YDX Ron Stone             | 1645   ZL2AGY Tony Marr
+2033   HA9RT  Jozsef Kertesz-Balazs | 1649   G4RMV  Mike Buckle
+1516   HB9BFQ Bo Lofstedt           | 1650   G4XRV  Rupert Bullock
+1408   HB9QO  Bruno Bossert         | 1652   W6IJ   Tommy Farr
+1789   HS0ZLM Finn Jensen           | 1655   OK1KT  Vrata Vaverka
+1286   I3BLF  Jack Mior             | 1656   EA8CN  Andy Nyberg
+1305   I7ALE  Sandro D'Onofrio      | 1657   W8AV   Goose Steingass
+1999   IK0IXI Fabio Bonucci         | 1659   VE3DZZ Pat Nicholls
+1937   IK0YGJ Carlo Consoli         | 1662   AC5K   Wes Spence
+2086   IK0YVV Marco Pimpolari       | 1665   W8KJP  Del Clouser
+1968   IK6BAK Eliseo Chiarucci      | 1666 A G0IVZ  Jan Fisher
+1969   IS0AFM Simone Santus         | 1668   OY1CT  Caen Thomsen
+2052   JA1GZV Motoaki Uotome        | 1669   N6NT   Bruce Sawyer
+1529   JA1NUT Shin Onisawa          | 1670   5B4AGN Bob Henderson
+1541   JA5DQH Aki Nagi              | 1673   G3IZD  Ivan Davies
+1959 A JE1TRV Atsu Taniguchi        | 1677   G0BQV  Mary Ashdown
+1615   K0MZN  Del Seay              | 1678   G3SED  Mike Devereux
+1916   K0PFX  Mel Whitten           | 1681   K9DX   John Battin
+1979   K0VBU  Bill Henderson        | 1682 A G3PQC  Doug Turk
+2047   K0VXU  Russ Woirhaye         | 1683   G3MRC  Joe Poole
+1635   K1AJ   Bruce Marshall        | 1684   G0ORH  Ken Chandler
+1528   K1AR   John Dorr             | 1685   G3YXX  David Wood
+2083   K1BG   Bruce Blain           | 1686   KF2AT  Percy Jones
+1801   K1DG   Doug Grant            | 1687   W4PM   Puck Motley
+2089   K1DW   Dallas Ward           | 1688   N3BB   Jim George,Jr.
+2079   K1ESE  John Huffman          | 1693   VK6VZ  Steve Ireland
+1593   K1GUP  Jerry Burns           | 1694   K2ZR   Dick Stein
+1612   K1JD   John DePrimo          | 1695   WL7E   Joe Jeffries
+1919   K1ON   Larry Scapa           | 1697   K5AX   Tom Dixon
+1889   K1SA   Bernie Cohen          | 1698   G3HEJ  Derek Stanners
+2087   K1VT   Jack Mandelman        | 1699   N4TY   Tyler Barnett
+1053   K1ZZ   Dave Sumner           | 1700   W4ZYT  Don Lynch
+1461   K2LE   Andy Bodony           | 1701   DK8IT  Gerry Emig
+1340   K2MGR  Kurt Stietz           | 1704   SV1AOW Geo Thanos
+2007   K2NV   Anthony Buscaglia     | 1706   N2NT   Andy Blank
+1867   K2QMF  Ted Console           | 1707 A N8DCJ  Dan Bookwalter
+2011   K2RSK  Peter Liaros          | 1708   DJ6SI  Baldur Drobnica
+1494   K2SG   Tony DeBiasi          | 1709 A LZ1AF  Dimiter Petrov
+1599   K2SX   Dennis McAlpine       | 1710   VK4OQ  John Bazley
+675    K2TT   Bill Schneider        | 1712   N4AF   Howie Hoyt
+1721   K2UFT  Dick Bentley          | 1713   OZ4FF  Karsten Tranberg
+1807   K2UR   George Miller,Jr.     | 1717   ZL2AZ  Pete Lake
+1915   K2UV   Warren Berbit         | 1721   K2UFT  Dick Bentley
+1561   K2VUI  Joe Green             | 1722   W5ZR   Bert Beyt
+2076   K2YWE  Dan Zeitlin           | 1723   KC4YDP Jerry Richards
+1694   K2ZR   Dick Stein            | 1724   EA6BF  Josep Torres
+2092   K3MD   John Thompson         | 1726   KF7E   Jim Henderson
+1842 A K3NA   Eric Scace            | 1729   OK1CF  Karel Matousek
+2030   K3TF   Tom Freeman           | 1731   G0JWB  Bill Brady
+1177   K3TW   Tom Warren            | 1732   LY9A   Gedas Lucinskas
+928    K3ZO   Fred Laun             | 1733   S57NW  Jelka Szekeres
+1121   K4BAI  John Laney            | 1734   W4MQC  Alan Pike
+1374 A K4EFZ  Chris Esbensen        | 1737   F5NZY  Stephane Collas
+1263   K4EWG  Pete Rhodes           | 1738   KT4P   Carey Brown
+1967   K4JJW  Dick Goodwin          | 1739   W0VTT  Mike Cizek
+1434   K4LQ   Fred Perkins          | 1740   VE3DZ  Yuri Onipko
+1576 A K4LT   Doug Klein            | 1741   KY7M   Lee Finkel
+1548   K4LTA  Bill O'Kain           | 1743   V31JP  Joe Pontek
+1391 A K4OAH  Garey Barrell         | 1744   SM6CLU Len Lonnqvist
+1927   K4OSO  Milt Coleman          | 1745   OK1RP  Petr Ourednik
+1759   K4UEE  Bob Allphin,Jr.       | 1746   G4BWP  Fred Handscombe
+1749   K4WJ   John Bohnovic,Jr.     | 1748   VK4CT  John Loftus
+1268   K4XU   Dick Frey             | 1749   K4WJ   John Bohnovic,Jr.
+1797   K5ALU  Red Cranford          | 1751   VE3HX  Alan Goodacre
+1297   K5AQ   Don Hall              | 1752   G3ZGC  Richard Jolliffe
+1697   K5AX   Tom Dixon             | 1753   VE3VA  Jeff Knight
+1907   K5EX   Ben Horton            | 1757   G5LP   Lionel Parker
+1990   K5FP   Fred Pevoto           | 1758   G4VHH  Fred Atkin
+2043   K5KV   Benny Owens           | 1759   K4UEE  Bob Allphin,Jr.
+2088   K5LN   Bill Sepulveda        | 1760   K5RC   Tom Taormina
+2062   K5LY   Lee Young             | 1761   KZ5D   Art Suberbielle
+1539   K5NA   Richard King          | 1762   LU6EF  Raul Diaz
+2059   K5OT   Larry Hammel          | 1763 A DL8LBK Ken Koch
+1760   K5RC   Tom Taormina          | 1765   N6XI   Rick Tavan
+2003   K5TF   Dick Baxter           | 1766   N6FB   Bill Hartman
+2077   K5VR   Stan Ross             | 1767   W1MO   Norm Duxbury
+2082   K5VWW  Orville Burg          | 1768   VK3XU  Drew Diamond
+1641   K5XK   Ron Evans             | 1769 A G4PPG  Jim O'Sullivan
+1942   K6AR   Jim Noe               | 1770   EI6FR  Declan Craig
+1888   K6KII  Cliff Moore           | 1773   LY2PX  Vilius Vaseikis
+1235   K6NA   Glen Rattmann         | 1776   KF3B   Alan Snyder
+1821   K6RB   Rob Brownstein        | 1777   G2NF   Tony Canning
+1845   K6VVA  Rick Hilding          | 1778   G3PJT  Bob Whelan
+1868   K6XG   Dave Abell            | 1781   G3MBN  Brian Gibbs
+1885   K6ZB   Bruce Elbert          | 1782   4Z4KX  Mark Stern
+2063   K7HP   Hank Pfizenmayer      | 1785   W1DV   Dave Vittum
+1476   K7NJ   Riki Kline            | 1786   W8FJ   John Schrader
+1866   K7SV   Larry Schimelpfenig   | 1787   G4TSH  Justin Snow
+1601   K7UOT  Tom Chandler          | 1788   WK2G   Merrill Brown,Jr.
+1186   K8MFO  Don Karvonen          | 1789   HS0ZLM Finn Jensen
+1876   K8RD   Ed Warren             | 1790   S53R   Robert Kasca
+1549   K8ZH   Rick Chilcote         | 1794   G3PDH  Malcolm Prestwood
+1681   K9DX   John Battin           | 1795   DK7VW  Werner Jochem
+2001   K9FN   David Bunte           | 1796   DJ1YFK Fabian Kurz
+1507   K9QVB  John Meyer            | 1797   K5ALU  Red Cranford
+1627   K9UIY  Vic Shields           | 1799   DL1BUG Red Frenzel
+1306   K9WA   Jim Rounds            | 1801   K1DG   Doug Grant
+2075   KC0VKN Joe Hetrick           | 1803 A W3EF   Maury Peiperl
+1723   KC4YDP Jerry Richards        | 1805   G3XTT  Don Field
+1634   KC7V   Mike Fulcher          | 1806   W1JR   Joe Reisert
+1686   KF2AT  Percy Jones           | 1807   K2UR   George Miller,Jr.
+1776   KF3B   Alan Snyder           | 1808   DK1WU  Hans Hofmann
+1726   KF7E   Jim Henderson         | 1809   N3AM   John Silva
+1985   KH6LC  Lloyd Cabral          | 1810 A YO3FLR Cristi Simion
+1920   KJ9I   Dave Schmocker        | 1812 A M0AGA  Kevin Gunstone
+1496   KN0V   Gary Reichow          | 1816   G3OLB  Tom Boucher
+1594   KP4P   Tele Figueroa         | 1819   N5AN   Bud Azar,Jr.
+1878   KR3E   Ed Tobias             | 1821   K6RB   Rob Brownstein
+1738   KT4P   Carey Brown           | 1823 A M0GMT  Danny Clapp
+1636   KT5X   Fred Maas             | 1824   VE3NE  Lali Laki
+1870   KU8E   Jeff Clarke           | 1826   LZ1MS  Rumen Gechev
+1741   KY7M   Lee Finkel            | 1827   W6SJ   Randy Johnson
+1761   KZ5D   Art Suberbielle       | 1830   N9RV   Pat Barkey
+1480   LA3FL  Per Mikalsen          | 1833   DJ4KW  Gerd Sapper
+1973   LA4XX  Hal Duklaet           | 1834   G3PQD  Derek St. John
+494    LA5HE  Rag Otterstad         | 1835   OK1TN  Slavek Zeler
+1877   LU5OM  Manuel Wilches        | 1836   4X4DK  Ami Shami
+1762   LU6EF  Raul Diaz             | 1839 A GI3PDN Ray Harbison
+1773   LY2PX  Vilius Vaseikis       | 1840   W9RGB  Vic Abell
+1732   LY9A   Gedas Lucinskas       | 1841   VY2ZM  Jeff Briggs
+1709 A LZ1AF  Dimiter Petrov        | 1842 A K3NA   Eric Scace
+1826   LZ1MS  Rumen Gechev          | 1845   K6VVA  Rick Hilding
+1945   LZ2RS  Rumen Stefanov        | 1847   M0IKE  Dave Bilson
+1812 A M0AGA  Kevin Gunstone        | 1848   SM6CNN Anders Larsson
+1988   M0CVR  Dan Gurney            | 1849   W7QC   Steve Buroker
+1932   M0DXR  Mark Haynes           | 1851   AC2K   Alan Komenski
+1823 A M0GMT  Danny Clapp           | 1852 A G4KXG  Ken Jackson
+1847   M0IKE  Dave Bilson           | 1853   DK5AD  Knut Baczko
+2024   M0PCB  Iain Kelly            | 1855   GU4CHY Dick Allisette
+1961   M0PIE  Bob Cockroft          | 1857   VK4TT  Keith Hanlon
+1914   MD0CCE Bob Barden            | 1858   OE3ZK  Gert Kmet
+2042   MJ0ASP Matt Roche            | 1860   SM7YIN Ingvar Wihlborg
+1892   MU0FAL Colin Fallaize        | 1861   AI2Q   Alex Mendelsohn
+1909   N0AV   Jim Harvey            | 1863   W5SG   Bill Eckenrode
+1951   N2ATB  Tony Canuso           | 1864   N5KD   Pete Hicks
+1586 A N2KW   Allen Singer          | 1865   PA5V   Bob Ackx
+1894   N2NA   Ric Ostrowski         | 1866   K7SV   Larry Schimelpfenig
+2050   N2NL   David Mueller         | 1867   K2QMF  Ted Console
+1706   N2NT   Andy Blank            | 1868   K6XG   Dave Abell
+1483   N2UU   Bob Weiman            | 1870   KU8E   Jeff Clarke
+1809   N3AM   John Silva            | 1871   WR5U   Mike Pitre
+1688   N3BB   Jim George,Jr.        | 1872   VQ9JC  Jim Clary
+1067   N3JT   Jim Talens            | 1873   W1ZT   George Johnson
+1928   N3KS   Kam Sirageldin        | 1874   G4FON  Ray Goff
+1149   N3RD   Dave Hawes            | 1875 A G0RTN  Gerry Lynch
+888    N3RS   Sig Sigismonti        | 1876   K8RD   Ed Warren
+1906   N3WT   John Sweeney          | 1877   LU5OM  Manuel Wilches
+1712   N4AF   Howie Hoyt            | 1878   KR3E   Ed Tobias
+1164   N4AR   Bill Maxson           | 1879   DK2GZ  Harry Meier
+1699   N4TY   Tyler Barnett         | 1880   AD8P   Bill Gaines
+1490   N4UB   Don Widener,Jr.       | 1882   W1AO   Joe Kozak
+1183   N4WJ   Frank McCormick       | 1883   W2TB   Mike Lafferty
+1819   N5AN   Bud Azar,Jr.          | 1884   G3SCD  David Dunn
+1941   N5AW   Marv Bloomquist       | 1885   K6ZB   Bruce Elbert
+1948   N5CW   Curt Waites           | 1886   W1EBI  George Harlem
+1864   N5KD   Pete Hicks            | 1887   WA9AQN John Swartz
+2027   N5RR   William Beggs         | 1888   K6KII  Cliff Moore
+1234   N5TP   Pete Pederson         | 1889   K1SA   Bernie Cohen
+1953   N5XZ   Allen Brier           | 1890   W1AAX  Harry Wilson
+1766   N6FB   Bill Hartman          | 1892   MU0FAL Colin Fallaize
+1669   N6NT   Bruce Sawyer          | 1893 A G3YIQ  Bob Jones
+1444   N6RA   Tom Gallagher         | 1894   N2NA   Ric Ostrowski
+2004 A N6TT   Steven Massey         | 1895   OH6MM  Ole Melin
+1765   N6XI   Rick Tavan            | 1896   W0SA   Peter Cross
+1707 A N8DCJ  Dan Bookwalter        | 1897 A S57WJ  Gabor Szekeres
+1938   N8DE   Don Havlicek          | 1898   AK4Z   John Rothrock
+1954   N8NA   Karl Grunewald        | 1899   G4RCG  John Muzyka
+1625   N9RD   Jurgen Nittner        | 1900   PA3CVV Miles Spiering
+1830   N9RV   Pat Barkey            | 1901   G0CHV  Mike Sherriff
+698    N9SW   Gene Sochor           | 1902   G3RWF  Nick Henwood
+1970   NA5G   Ed Sexton             | 1903   W0UA   George Schultz
+2046   NA6M   Mark Stennett         | 1904   DF4BV  Heinz Mueller
+2049   NN6T   Glen Hinkley          | 1905   EI5DI  Paul O'Kane
+1944   NO5W   Chuck Sanders         | 1906   N3WT   John Sweeney
+1858   OE3ZK  Gert Kmet             | 1907   K5EX   Ben Horton
+2038   OE5MSM Mike Subota           | 1909   N0AV   Jim Harvey
+937    OH2EA  Hans Boeltzig         | 1911   WB2YIP Chuck Comerford
+1557   OH2KI  Jorma Saloranta       | 1912   ZL2IFB Gary Hinson
+1895   OH6MM  Ole Melin             | 1914   MD0CCE Bob Barden
+1964   OK1AVG Jan Stejskal          | 1915   K2UV   Warren Berbit
+1729   OK1CF  Karel Matousek        | 1916   K0PFX  Mel Whitten
+1547   OK1CZ  Petr Doudera          | 1918   G3ROO  Ian Keyser
+1655   OK1KT  Vrata Vaverka         | 1919   K1ON   Larry Scapa
+1745   OK1RP  Petr Ourednik         | 1920   KJ9I   Dave Schmocker
+1437   OK1RR  Martin Kratoska       | 1921   AA3B   Bud Trench
+1835   OK1TN  Slavek Zeler          | 1922   VK2IA  Bernd Laenger
+1974   OK1WF  Jarda Bazant          | 1923   W3YY   Bob Peterson
+1935   OK2CQR Petr Hlozek           | 1924   WD4LZC Stu Harris
+2080   OK2LA  Jindra Prokel         | 1925   6Y5WJ  Josh Walker
+2069   ON4IZ  Henry van Kets        | 1926   GM3YOR Drew Givens
+1493   OQ3R   Mar Dancilla          | 1927   K4OSO  Milt Coleman
+1376   OX3XR  Peter Thulesen        | 1928   N3KS   Kam Sirageldin
+1668   OY1CT  Caen Thomsen          | 1929   WB4FSF Bonnie Taylor
+2073   OZ1JHM Jalmar Hansen         | 1930   G3KOJ  Ray Ezra
+1205   OZ1LO  Leif Ottosen          | 1931   G0VQW  Sandy Jack
+1713   OZ4FF  Karsten Tranberg      | 1932   M0DXR  Mark Haynes
+1554   OZ4UN  Poul-Erik Karlshoej   | 1933 A G3VCN  Paul Kalas
+1211   OZ5DX  Hans Pyndt            | 1934   G4HMC  David Oliver
+1049   OZ7YL  Svata Visser          | 1935   OK2CQR Petr Hlozek
+2018   OZ8SW  Steen Wichmand        | 1936   G3TBK  Dave Cree
+1415   PA0ABM Wino Paas             | 1937   IK0YGJ Carlo Consoli
+676    PA0BW  Hein Spoorenberg      | 1938   N8DE   Don Havlicek
+1446   PA0DIN Din Hoogma            | 1939   G0GKH  Dave Birch
+1366   PA0INA Frans Oosthoek        | 1940   EI5DS  Ned Collins
+1101   PA0VDV Joeke van der Velde   | 1941   N5AW   Marv Bloomquist
+1900   PA3CVV Miles Spiering        | 1942   K6AR   Jim Noe
+2034   PA4N   Frank Oppedijk        | 1943   DL1VDL Hartmut Buettig
+1506   PA5TT  Teun den Ouden        | 1944   NO5W   Chuck Sanders
+1865   PA5V   Bob Ackx              | 1945   LZ2RS  Rumen Stefanov
+1537   PA5XM  Kees Engelhard        | 1946   DJ6ZM  Toffy Schmige
+1962   PA7RA  Rien Aarden           | 1947   VE3EJ  John Sluymer
+1982   PJ4LS  Hans van Hese         | 1948   N5CW   Curt Waites
+1294   PR7PO  Alex Filho            | 1949   G3HGE  Tom Withers
+1952   R6AF   Vic Kravchenko        | 1950 A G3JKB  Dave Simmonds
+1621   R7KZ   Stan Sychev           | 1951   N2ATB  Tony Canuso
+2051   RX6CB  Eduard Eysmond        | 1952   R6AF   Vic Kravchenko
+1122   S50A   Tine Brajnik          | 1953   N5XZ   Allen Brier
+1983   S51WO  Joze Samec            | 1954   N8NA   Karl Grunewald
+1790   S53R   Robert Kasca          | 1956   7Z1HL  Harry Lennertz
+1733   S57NW  Jelka Szekeres        | 1957   W7GKF  Bill Waters
+1897 A S57WJ  Gabor Szekeres        | 1958   YO3FRI Tina Muller
+2021   SM1TDE Eric Wennstrom        | 1959 A JE1TRV Atsu Taniguchi
+2084   SM2EKM Jan Holm              | 1961   M0PIE  Bob Cockroft
+2064   SM3CER Jan Rehn              | 1962   PA7RA  Rien Aarden
+1402   SM3EVR Tord Julander         | 1963   VE7AHA Andy Ponzini
+477    SM5CCE Kjell Edvardsson      | 1964   OK1AVG Jan Stejskal
+1514   SM5COP Rune Wande            | 1965   WP3C   Alfredo Ramos
+1418   SM5GLC Lasse Moell           | 1966   W1EBM  Gary Smetana
+1484   SM6BGA Hans Johansson        | 1967   K4JJW  Dick Goodwin
+1744   SM6CLU Len Lonnqvist         | 1968   IK6BAK Eliseo Chiarucci
+1848   SM6CNN Anders Larsson        | 1969   IS0AFM Simone Santus
+1571   SM6CPY Carl Jonsson          | 1970   NA5G   Ed Sexton
+935    SM6CUK Lars Persson          | 1971   W2VT   Rich Van Tieghem
+1610   SM6DHU Matt Alfredsson       | 1972   VU2PTT Prasad Rajagopal
+713    SM7BVO Rolf Carlsson         | 1973   LA4XX  Hal Duklaet
+1860   SM7YIN Ingvar Wihlborg       | 1974   OK1WF  Jarda Bazant
+1987   SP4R   Andrzej Barszczewski  | 1975   G3XJS  Peter Barville
+1704   SV1AOW Geo Thanos            | 1976 A G5CL   Ryan Pike
+2009   TF3DC  Oskar Sverrisson      | 1979   K0VBU  Bill Henderson
+2074   UA6HZ  Larry Agabekov        | 1980   DJ5IL  Karl Fischer
+2081   UR5MM  Rudy Rood             | 1981   DL3AZ  Andy Zipper
+1743   V31JP  Joe Pontek            | 1982   PJ4LS  Hans van Hese
+1740   VE3DZ  Yuri Onipko           | 1983   S51WO  Joze Samec
+1659   VE3DZZ Pat Nicholls          | 1984   G4BYG  Vic Lindgren
+1947   VE3EJ  John Sluymer          | 1985   KH6LC  Lloyd Cabral
+1751   VE3HX  Alan Goodacre         | 1986   DL8PG  Gerd Jacobs
+2055   VE3KI  Richard Ferch         | 1987   SP4R   Andrzej Barszczewski
+1994   VE3LYC Cezar Trifu           | 1988   M0CVR  Dan Gurney
+1824   VE3NE  Lali Laki             | 1989   EI7BA  John Tait
+2010   VE3USP Steve Nyul            | 1990   K5FP   Fred Pevoto
+1753   VE3VA  Jeff Knight           | 1991   G3NKC  David Sharred
+2090   VE5SDH Summer Hartzfeld      | 1992   G7VJR  Michael Wells
+953    VE6BF  Bill Metcalfe         | 1994   VE3LYC Cezar Trifu
+1963   VE7AHA Andy Ponzini          | 1996   G3NCN  John Ellerton
+1544   VE7CC  Lee Sawkins           | 1997   G4FAD  Rich Langford
+832    VK2AYD Dave Pilley           | 1998   GM0GAV Gavin Taylor
+1628   VK2BJ  Barry Simpson         | 1999   IK0IXI Fabio Bonucci
+1922   VK2IA  Bernd Laenger         | 2000   G4IRN  John Warburton
+1768   VK3XU  Drew Diamond          | 2001   K9FN   David Bunte
+1748   VK4CT  John Loftus           | 2002 A G3YEC  Rick Edmondson
+1710   VK4OQ  John Bazley           | 2003   K5TF   Dick Baxter
+1857   VK4TT  Keith Hanlon          | 2004 A N6TT   Steven Massey
+2040   VK6GX  Phil Hartwell         | 2005   5T0JL  Jean Lewuillon
+1492   VK6LW  Kevin Smith           | 2006   G3BJ   Don Beattie
+1693   VK6VZ  Steve Ireland         | 2007   K2NV   Anthony Buscaglia
+2085   VK7CW  Steve Salvia          | 2009   TF3DC  Oskar Sverrisson
+1526   VK8AV  Alan Viegas           | 2010   VE3USP Steve Nyul
+1872   VQ9JC  Jim Clary             | 2011   K2RSK  Peter Liaros
+1972   VU2PTT Prasad Rajagopal      | 2012   ZS1C   Raoul Coetzee
+1841   VY2ZM  Jeff Briggs           | 2013   GI4CFQ Gary McSweeney
+2032   W0JX   Dennis Sokol          | 2014   GU4YOX Bob Beebe
+1896   W0SA   Peter Cross           | 2015   G4IIY  Ian Fugler
+1903   W0UA   George Schultz        | 2016   9V1VV  John Davies
+1739   W0VTT  Mike Cizek            | 2017   F6HKA  Bert Banlier
+2035   W0VX   Dave Jaksa            | 2018   OZ8SW  Steen Wichmand
+1460   W0ZR   Tom Lutz              | 2019   G3WPH  Mike Chamberlain
+1890   W1AAX  Harry Wilson          | 2020   DL6LBI Ingo Trende
+1882   W1AO   Joe Kozak             | 2021   SM1TDE Eric Wennstrom
+1785   W1DV   Dave Vittum           | 2022   W5PEH  Pete Haddad, Sr.
+1886   W1EBI  George Harlem         | 2023   W4EDE  Lee Kerbel
+1966   W1EBM  Gary Smetana          | 2024   M0PCB  Iain Kelly
+1532   W1FJ   Al Rousseau           | 2025   WA1FCN Robert Beaudoin
+1423   W1HL   Jim Fisk              | 2026   DL5YL  Tina Ockert
+774    W1HT   Ralph Green           | 2027   N5RR   William Beggs
+1806   W1JR   Joe Reisert           | 2028   DL5YM  Manfred Ockert
+1767   W1MO   Norm Duxbury          | 2029   AK5X   William Hammond
+1280   W1OT   Tony Berg             | 2030   K3TF   Tom Freeman
+779    W1RAN  Ned Raub              | 2031   W2MV   Alan Burg
+1159   W1RM   Pete Chamalian        | 2032   W0JX   Dennis Sokol
+806    W1UU   Peter Butler          | 2033   HA9RT  Jozsef Kertesz-Balazs
+875    W1YL   Ellen White           | 2034   PA4N   Frank Oppedijk
+1873   W1ZT   George Johnson        | 2035   W0VX   Dave Jaksa
+2031   W2MV   Alan Burg             | 2036   AC4CA  John Huecksteadt
+1883   W2TB   Mike Lafferty         | 2037   G3LDI  Roger Cooke
+1971   W2VT   Rich Van Tieghem      | 2038   OE5MSM Mike Subota
+2094   W3EEK  Carl Zimmerman        | 2039   W9YXX  Bob Lee
+1803 A W3EF   Maury Peiperl         | 2040   VK6GX  Phil Hartwell
+1616   W3IL   Bill Erney            | 2041   WB6BEE Donald Haywood
+1150   W3LPL  Frank Donovan         | 2042   MJ0ASP Matt Roche
+1923   W3YY   Bob Peterson          | 2043   K5KV   Benny Owens
+2057   W4CI   Dave Hillebrandt      | 2044   DK7LX  Georg Knoess
+1515   W4CK   Mark Clark            | 2045   EW8O   Mik Katsuro
+2023   W4EDE  Lee Kerbel            | 2046   NA6M   Mark Stennett
+2061   W4II   John Frazier          | 2047   K0VXU  Russ Woirhaye
+1425   W4IR   Joe Picior            | 2048   G0IBN  Andy Kersey
+1734   W4MQC  Alan Pike             | 2049   NN6T   Glen Hinkley
+1687   W4PM   Puck Motley           | 2050   N2NL   David Mueller
+1299   W4VQ   Bob Beatty            | 2051   RX6CB  Eduard Eysmond
+1217   W4YE   Bud Smith             | 2052   JA1GZV Motoaki Uotome
+1700   W4ZYT  Don Lynch             | 2054   EA4BB  Fernando Arroyo
+2022   W5PEH  Pete Haddad, Sr.      | 2055   VE3KI  Richard Ferch
+1863   W5SG   Bill Eckenrode        | 2056   W8ZR   Jim Garland
+1722   W5ZR   Bert Beyt             | 2057   W4CI   Dave Hillebrandt
+1613   W6CYX  Bob Warmke            | 2058   YB4IR  Imam Raharjo
+1652   W6IJ   Tommy Farr            | 2059   K5OT   Larry Hammel
+2065   W6OAT  Rusty Epps            | 2060   GM4EVS David Johnstone
+1563   W6RGG  Bob Vallio            | 2061   W4II   John Frazier
+1827   W6SJ   Randy Johnson         | 2062   K5LY   Lee Young
+2078   W7AQK  Dave Yarnes           | 2063   K7HP   Hank Pfizenmayer
+1957   W7GKF  Bill Waters           | 2064   SM3CER Jan Rehn
+1849   W7QC   Steve Buroker         | 2065   W6OAT  Rusty Epps
+1657   W8AV   Goose Steingass       | 2066   G3YJQ  Fred Bourne
+1786   W8FJ   John Schrader         | 2067   G8DX   Jack White
+1665   W8KJP  Del Clouser           | 2068   G0EFO  Mike Shortland
+2056   W8ZR   Jim Garland           | 2069   ON4IZ  Henry van Kets
+1262   W9KNI  Bob Locher            | 2070   DL1CW  Arno Polinsky
+1840   W9RGB  Vic Abell             | 2072   F6JOE  Jean-Claude Mercier
+1104   W9VNE  Jim Danehy            | 2073   OZ1JHM Jalmar Hansen
+2039   W9YXX  Bob Lee               | 2074   UA6HZ  Larry Agabekov
+2025   WA1FCN Robert Beaudoin       | 2075   KC0VKN Joe Hetrick
+1887   WA9AQN John Swartz           | 2076   K2YWE  Dan Zeitlin
+1911   WB2YIP Chuck Comerford       | 2077   K5VR   Stan Ross
+1606   WB2YQH Bob Nadolny           | 2078   W7AQK  Dave Yarnes
+1929   WB4FSF Bonnie Taylor         | 2079   K1ESE  John Huffman
+2041   WB6BEE Donald Haywood        | 2080   OK2LA  Jindra Prokel
+1924   WD4LZC Stu Harris            | 2081   UR5MM  Rudy Rood
+1788   WK2G   Merrill Brown,Jr.     | 2082   K5VWW  Orville Burg
+1695   WL7E   Joe Jeffries          | 2083   K1BG   Bruce Blain
+1965   WP3C   Alfredo Ramos         | 2084   SM2EKM Jan Holm
+1871   WR5U   Mike Pitre            | 2085   VK7CW  Steve Salvia
+2058   YB4IR  Imam Raharjo          | 2086   IK0YVV Marco Pimpolari
+1810 A YO3FLR Cristi Simion         | 2087   K1VT   Jack Mandelman
+1958   YO3FRI Tina Muller           | 2088   K5LN   Bill Sepulveda
+1371 A YT1E   Rod Rankovic          | 2089   K1DW   Dallas Ward
+1617   ZB2CW  Derek Austin          | 2090   VE5SDH Summer Hartzfeld
+1314   ZL1AH  John Wightman         | 2091   G4LFU  Tony Bircher
+1608   ZL1MH  Mike Hutchins         | 2092   K3MD   John Thompson
+1645   ZL2AGY Tony Marr             | 2093   AE1T   Peter Drexel
+1717   ZL2AZ  Pete Lake             | 2094   W3EEK  Carl Zimmerman
+1912   ZL2IFB Gary Hinson           | 2095   G0PNM  Pete Sobye
+2012   ZS1C   Raoul Coetzee         | 2096   AD5A   Mike Crownover
+658    ZS1EL  Vidi La Grange        | 2097   DU7ET  Robert Wright
+Displaying Current.txt.
