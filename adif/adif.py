@@ -1,30 +1,49 @@
 import re
 import argparse
 
-
-
 class adif(object):
-    def __init__(self, fname):
-        self.fname = fname
+    '''
+    adif Parsing class
+    '''
 
+    def __init__(self, fname):
+        '''
+        Initializer
+        :param fname: Filename of the ADIF file to parse
+        '''
+        self.fname = fname
         self.ifp = open(fname, 'rt')
 
     def __iter__(self):
         return self
 
     def __next__(self):
+        '''
+        Iterator
+        :return:    a Line from the ADIF file. You need to check if it is a header or a data line
+        '''
         line = self.ifp.readline()
         if line=='':
+            self.reset_file_pointer()
             raise StopIteration
         else:
             return line
 
+    def reset_file_pointer(self):
+        self.ifp.seek(0,0)
+
     def parse_line(self, line):
+        '''
+        Parse the line. If the line is an ADIF data record parse it and return a dictionary with the data.
+        The data is all Uppercase and space stripped (Makes call-sign and frequency easier downstream).
+        :param line: Regex is used to check it is an ADIF data line not a header
+        :return: A dictionary of fields and data values.
+        '''
         d = {}
         re_fld = re.compile(r'[<]([a-z_]+)[:]([0-9]+)[>]([A-Za-z0-9\.]+)')
         data = re_fld.findall(line)
         for a in data:
-            d[a[0]] = a[2]
+            d[a[0]] = str(a[2]).upper().lstrip().rstrip()
         return d
 
 

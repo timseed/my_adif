@@ -2,42 +2,70 @@ from adif import adif
 import argparse
 
 
-
 class adif_qso(object):
+    '''
+    Check an ADIF file for a previous QSO
+    This can be useful for QSL card work - or checking FOC Members you have spoken to etc
+    '''
 
-
-    def __init__(self,adif_filename):
+    def __init__(self,adif_filename,debug=False):
+        '''
+        Initialize the class
+        :param adif_filename: needs and ADIF Filename
+        :param debug: Defaults to False
+        '''
         self.a = adif.adif(adif_filename)
         self.doneheader = False
+        self.debug=debug
 
-    def check_call(self,call):
 
-        CALL = str(call).upper()
+    def check_call(self,call,toprint=False):
+        '''
+        Check the Call
+
+        :param call: the Callsign say a45wg or m0fgc
+        :param toprint: True or False. If True then the basic QSO data is printed to the screen.
+                        if False: No screen output is produced
+        :return:   If matched - a dictionary of the QSO Details is returned.
+        '''
+
+        CALL = str(call).upper().lstrip().rstrip()
         rec = 0
         for l in self.a:
             rec = rec + 1
-            if rec % 5 == 0 and args.debug == True:
+            if rec % 5 == 0 and self.debug == True:
                 print("Processed " + str(rec))
             fields = self.a.parse_line(l)
             if 'call' in fields and 'mode' in fields and 'freq' in fields \
                     and 'qso_date' in fields and 'time_on' in fields \
                     and 'rst_sent' in fields and 'rst_rcvd' in fields:
                 if fields['call'] == CALL:
-                    if self.doneheader == False:
-                        self.header()
-                        self.doneheader = True
-                        print(str.format('{}\t{}\t{}\t{}\t{}\t{}\t{}', fields['call'], self.format_date(fields['qso_date']),
-                                         self.format_time(fields['time_on']), fields['freq'], fields['mode'],
-                                         fields['rst_sent'], fields['rst_rcvd']))
-                        # else:
-                        #    print("Bad ADIF Format")
+                    if toprint==True:
+                        if self.doneheader == False:
+                            self.header()
+                            self.doneheader = True
+                            print(str.format('{}\t{}\t{}\t{}\t{}\t{}\t{}', fields['call'], self.format_date(fields['qso_date']),
+                                             self.format_time(fields['time_on']), fields['freq'], fields['mode'],
+                                             fields['rst_sent'], fields['rst_rcvd']))
+                    return fields
+
+
+
 
     def header(self):
+        '''
+        Simple Header for Output
+        :return:  None
+        '''
         print(str.format("QSO\tDate\tTime\tFreq\tMode\tSent\tRcv"))
 
     def format_date(self,dt_str):
-        # The Date string looks like this
-        #    20160728
+        '''
+        Internal Date reformatting.
+        by default ISO Int format not locale
+        :param dt_str:  datestring looks like 20160728
+        :return: YYYY-MM-DD
+        '''
         if len(dt_str) == 8:
             new_date = dt_str[0:4] + '-' + dt_str[4:-2] + '-' + dt_str[6:]
             return new_date
@@ -46,8 +74,12 @@ class adif_qso(object):
 
 
     def format_time(self,tm_str):
-        # The time string looks like this
-        #    122103
+        '''
+        Internal Time reformatting.
+        by default ISO Int Time format not locale
+        :param tm_str: timestring looks like 122103
+        :return:   HH:MM:SS
+        '''
         if len(tm_str) == 6:
             new_time = tm_str[0:2] + ':' + tm_str[2:-2] + ':' + tm_str[4:]
             return new_time
