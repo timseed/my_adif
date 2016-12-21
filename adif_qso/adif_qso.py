@@ -8,7 +8,7 @@ class adif_qso(object):
     This can be useful for QSL card work - or checking FOC Members you have spoken to etc
     '''
 
-    def __init__(self,adif_filename,debug=False):
+    def __init__(self, adif_filename, debug=False):
         '''
         Initialize the class
         :param adif_filename: needs and ADIF Filename
@@ -16,10 +16,9 @@ class adif_qso(object):
         '''
         self.a = adif(adif_filename)
         self.doneheader = False
-        self.debug=debug
+        self.debug = debug
 
-
-    def check_call(self,call,toprint=False):
+    def check_call(self, call, toprint=False):
         '''
         Check the Call
 
@@ -40,17 +39,15 @@ class adif_qso(object):
                     and 'qso_date' in fields and 'time_on' in fields \
                     and 'rst_sent' in fields and 'rst_rcvd' in fields:
                 if fields['call'] == CALL:
-                    if toprint==True:
+                    if toprint == True:
                         if self.doneheader == False:
                             self.header()
                             self.doneheader = True
-                            print(str.format('{}\t{}\t{}\t{}\t{}\t{}\t{}', fields['call'], self.format_date(fields['qso_date']),
+                            print(str.format('{}\t{}\t{}\t{}\t{}\t{}\t{}', fields['call'],
+                                             self.format_date(fields['qso_date']),
                                              self.format_time(fields['time_on']), fields['freq'], fields['mode'],
                                              fields['rst_sent'], fields['rst_rcvd']))
                     return fields
-
-
-
 
     def header(self):
         '''
@@ -59,7 +56,7 @@ class adif_qso(object):
         '''
         print(str.format("QSO\tDate\tTime\tFreq\tMode\tSent\tRcv"))
 
-    def format_date(self,dt_str):
+    def format_date(self, dt_str):
         '''
         Internal Date reformatting.
         by default ISO Int format not locale
@@ -72,8 +69,7 @@ class adif_qso(object):
         else:
             return dt_str
 
-
-    def format_time(self,tm_str):
+    def format_time(self, tm_str):
         '''
         Internal Time reformatting.
         by default ISO Int Time format not locale
@@ -86,20 +82,20 @@ class adif_qso(object):
         else:
             return tm_str
 
-if __name__=="__main__":
-        parser = argparse.ArgumentParser(description='Process Adif File.')
-        parser.add_argument('--file', dest='adif_file',
-                            default='NoFile.adif',
-                            help='Enter the name of the adif file')
 
-        parser.add_argument('--call', dest='call',
-                            default='',
-                            help='Enter the name of the Call Sign you want')
-        parser.add_argument('--debug', dest='debug',
-                            default='True',
-                            help='Turn on Debugging')
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Process Adif File.')
+    parser.add_argument('--file', dest='adif_file',
+                        default='NoFile.adif',
+                        help='Enter the name of the adif file')
 
+    parser.add_argument('--call', dest='call',
+                        default='',
+                        help='Enter the name of the Call Sign you want')
+    parser.add_argument('--debug', dest='debug',
+                        default='True',
+                        help='Turn on Debugging')
 
-        args = parser.parse_args()
-        qso_check = adif_qso(args.adif_file)
-        qso_check.check_call(args.call)
+    args = parser.parse_args()
+    qso_check = adif_qso(args.adif_file)
+    qso_check.check_call(args.call)
