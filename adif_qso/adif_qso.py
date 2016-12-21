@@ -14,7 +14,7 @@ class adif_qso(object):
         :param adif_filename: needs and ADIF Filename
         :param debug: Defaults to False
         '''
-        self.a = adif.adif(adif_filename)
+        self.a = adif(adif_filename)
         self.doneheader = False
         self.debug=debug
 
