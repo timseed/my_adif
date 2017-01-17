@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(
     name='my_adif',
-    version='0.02',
-    packages=['adif', 'build.lib.adif', 'build.lib.adif_qso', 'cw_foc', 'adif_qso'],
+    version='0.04',
+    packages=['adif', 'cw_foc', 'adif_qso', 'adif_qsl'],
     url='',
     license='',
     author='tim',

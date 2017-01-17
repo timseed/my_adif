@@ -31,7 +31,7 @@ class adif_qso(object):
         CALL = str(call).upper().lstrip().rstrip()
         rec = 0
         for l in self.a:
-            rec = rec + 1
+            rec += 1
             if rec % 5 == 0 and self.debug == True:
                 print("Processed " + str(rec))
             fields = self.a.parse_line(l)
@@ -98,4 +98,4 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     qso_check = adif_qso(args.adif_file)
-    qso_check.check_call(args.call)
+    data=qso_check.check_call(args.call, toprint=True)
