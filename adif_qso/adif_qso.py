@@ -25,9 +25,10 @@ class adif_qso(object):
         :param call: the Callsign say a45wg or m0fgc
         :param toprint: True or False. If True then the basic QSO data is printed to the screen.
                         if False: No screen output is produced
-        :return:   If matched - a dictionary of the QSO Details is returned.
+        :return:   If matched - an array with a dictionary of the QSO Details is returned.
         '''
 
+        previous_qso=[]
         CALL = str(call).upper().lstrip().rstrip()
         rec = 0
         for l in self.a:
@@ -47,7 +48,9 @@ class adif_qso(object):
                                              self.format_date(fields['qso_date']),
                                              self.format_time(fields['time_on']), fields['freq'], fields['mode'],
                                              fields['rst_sent'], fields['rst_rcvd']))
-                    return fields
+
+                    previous_qso.append(fields)
+        return previous_qso
 
     def header(self):
         '''
