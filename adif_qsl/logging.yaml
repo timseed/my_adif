@@ -36,7 +36,7 @@ loggers:
         handlers: [console,error_file_handler]
         propagate: yes
 
-    adif_qsl.qsl:
+    adif_qsl.qslcard:
         level: DEBUG
         handlers: [console]
         propagate: no

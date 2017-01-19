@@ -3,7 +3,7 @@ import yaml
 import argparse
 import logging
 import logging.config
-from adif_qsl import qsl
+from adif_qsl import QslCard
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Adif QSL Printing')
@@ -21,5 +21,5 @@ if __name__ == "__main__":
         logging.config.dictConfig(config)
     logging = logging.getLogger(__name__)
     logging.info("qsl being called using call of {}".format(args.call))
-    q = qsl(args.infile)
+    q = QslCard(args.infile)
     q.qsl(args.call)

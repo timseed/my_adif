@@ -1,1 +1,1 @@
-from .qsl import qsl
+from .qslcard import QslCard
