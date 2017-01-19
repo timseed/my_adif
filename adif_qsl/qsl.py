@@ -12,9 +12,9 @@ class qsl(adif_qso):
         :param adif_filename:
         """
         self.logger = logging.getLogger(__name__)
-        print("Class is called "+__name__)
+        print("Class is called " + __name__)
         self.logger.debug("qsl class init")
-        adif_qso.__init__(self,adif_filename)
+        adif_qso.__init__(self, adif_filename)
         self.logger.debug("qso class init")
 
     def qsl(self, callsign):
@@ -31,23 +31,40 @@ class qsl(adif_qso):
             # mkdir fonts && cd fonts
             # fondu /System/Library/Fonts/Helvetica.dfont
             # cp * /Users/tim/pe35/lib/python3.5/site-packages
-            fnt = ImageFont.truetype('Courier',30)
-            col =(0,255,255,128)
-            draw.text((100,300),"Confirming QSO with {} ".format(prevqso[0]['call']),font=fnt,fil=col)
+            fnt = ImageFont.truetype('Courier', 30)
+            col = (0, 0, 0, 18)
+            self.logger.debug("Printing Header")
+            header_str=prevqso[0]['call']
+            draw.text((30, 30), header_str, font=fnt, fil=col)
 
-            y=200
+
+            startx=50
+            starty=200
+            y = starty
             for q in prevqso:
-                self.logger.debug("QSO on {}".format(q['freq']))
-                x=200
+                x = 50
                 # draw text, half opacity
-                draw.text((x,y), q['band'], font=fnt, fill=col)
-                x=x+50
-                draw.text((x,y), q['freq'], font=fnt, fill=col)
-                y=y+50
+                draw.text((x, y), q['band'], font=fnt, fill=col)
+                x = x + 80
+                draw.text((x, y), q['freq'][:5], font=fnt, fill=col)
+                x = x + 120
+                draw.text((x, y), q['mode'], font=fnt, fill=col)
+                x = x + 60
+                draw.text((x, y), q['qso_date'], font=fnt, fill=col)
+                x = x + 160
+                draw.text((x, y), q['rst_sent'], font=fnt, fill=col)
+                x = x + 80
+                draw.text((x, y), q['rst_rcvd'], font=fnt, fill=col)
+                y = y + 30
+                x = x+50
+                self.logger.debug("QSO Output")
+            draw.line((startx - 10, starty - 10) + (startx - 10, y), fill=128)
+            draw.line((x + 10, starty - 10) + (x + 10, y), fill=128)
+            draw.line((startx - 10, starty - 10) + (x+10, starty-10), fill=128)
+            draw.line((startx - 10, y ) + (x + 10, y ), fill=128)
 
-            #del draw
+            # del draw
             # write to stdout
             im.save("new.jpg", "jpeg")
         else:
             self.logger.warning("No calls found for call {}".format(callsign))
-
